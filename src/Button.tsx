@@ -1,3 +1,3 @@
 export default function Button() {
-  return <div>Provider button AMAZING</div>;
+  return <div style={{ backgroundColor: 'red' }}>Provider button AMAZING</div>;
 }

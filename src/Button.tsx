@@ -1,3 +1,3 @@
 export default function Button() {
-  return <div style={{ backgroundColor: 'red' }}>Provider button AMAZING</div>;
+  return <div style={{ display: 'inline-block', backgroundColor: 'blue', color: 'white' }}>Provider button AMAZING</div>;
 }
